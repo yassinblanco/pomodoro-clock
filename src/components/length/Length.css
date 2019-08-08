@@ -1,0 +1,21 @@
+#session-length{
+	width : 60px;
+}
+
+.length-container{
+	display: flex;	
+	width:500px;
+	justify-content: space-between;
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+
+@media (max-width:501px){
+	.length-container{
+		width: 100%;
+		flex-direction: column;
+		align-items: center;
+	}
+}

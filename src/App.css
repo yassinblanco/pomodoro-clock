@@ -1,0 +1,13 @@
+.app-container{
+	display: flex;
+	flex-direction: column;
+	align-items: center;	
+	margin-top: 100px;
+}
+
+
+@media (max-width : 501px){
+	.app-container{
+		margin-top: 50px;
+	}
+}

@@ -1,0 +1,8 @@
+.session-main-container{
+	
+}
+
+.session-sub-container{
+	display: flex;
+	justify-content: space-around;
+}

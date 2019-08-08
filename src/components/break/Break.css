@@ -1,0 +1,14 @@
+#break-length{
+	width:60px;
+}
+
+.break-sub-container{
+	display: flex;
+	justify-content: space-around;	
+}
+
+@media (max-width:501px){
+	.break-main-container{
+		margin: 20px 0px;
+	}
+}
